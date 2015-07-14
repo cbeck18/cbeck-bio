@@ -1,0 +1,44 @@
+body {
+  background-color: #C2D6D6
+}
+
+h1{
+  font-size: 50px
+}
+h3{
+  font-size: 30px 
+}
+
+li {
+font-size: 25px;
+} 
+img {
+  width: 500 px 
+    
+}
+
+.Irving{
+  height: 500px; 
+  width:800px; 
+}
+
+.Sweatshop {
+  height:600px;
+  width:800px
+}
+.Gasoline {
+  height:500px;
+  width:800px 
+}
+.Red {
+  height:500px;
+  width:800px
+}
+.Samurai {
+  height:500px;
+  width:800px
+}
+.Cocoron {
+  height:700px;
+  width:800px
+}
